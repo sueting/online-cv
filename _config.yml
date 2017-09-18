@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://webjeda.com'
+#url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -20,7 +20,7 @@ pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and pr
 #sidebar links
 email: rockkrisklose@gmail.com
 phone: +44 745 270 3841
-#website: blog.webjeda.com #do not add http://
+website: sueting.github.io/online-cv/ #do not add http://
 linkedin: suetingyeh
 github: sueting
 #twitter: '@webjeda'
